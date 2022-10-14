@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdurokhman Mukhanbetov iOS developer.
 - 👀 I’m interested in iOS Development, as well as Machine learning and Augmented Reality.
 - 🌱 I’m currently working with SwiftUI.
-- 💞️ I’m looking to collaborate on mobile development and blockchain technology.
+- 👨🏻‍💻 I’m looking to collaborate on mobile development and blockchain technology.
 - 📫 How to reach me @muhanbetov on Telegram.
 
 <!---
